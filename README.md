@@ -1,1 +1,1 @@
-# Assistant-Chatbot-in-Alzheimer-s-Disease
+# Assistant Chatbot in Alzheimer's Disease
